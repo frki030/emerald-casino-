@@ -1,0 +1,5 @@
+{
+  "name": "Emerald Casino",
+  "description": "A high-end, fully functional casino simulation featuring Roulette, Blackjack, Slots, and Mines with persistent virtual balance and immersive animations.",
+  "requestFramePermissions": []
+}
